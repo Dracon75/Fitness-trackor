@@ -1,1 +1,1 @@
-# Fitness-trackor
+# Fitness-tracker
