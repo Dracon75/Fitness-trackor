@@ -1,4 +1,5 @@
-# Fitness-trackor
+
+# Fitness-tracker
 
 # View At
 https://dracon75.github.io/fitness-tracker/
@@ -36,3 +37,4 @@ After you clone the repo and install the packages, you can run an 'npm start' to
 ## Screenshot 
 
 <img src='public\fitnessTracker_screenshot.PNG'>
+
